@@ -9,8 +9,6 @@ Curious and creative engineer with 4+ years of experience building scalable syst
 ## 🌍 Global Experience
 
 ```
-🌍 Global Experience
-
 🇰🇷 South Korea — FPT Software Korea · Element Energy Korea · WAI Korea
 🇧🇪 Belgium — Odoo S.A.
 🇵🇱 Poland — Credit Suisse
