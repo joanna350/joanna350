@@ -42,6 +42,3 @@ Curious and creative engineer with 4+ years of experience building scalable syst
 🎓 **BSc in Civil Engineering** - KAIST
    *Government Scholarship*
 
----
-
-*"Turning complex data challenges into actionable solutions, one commit at a time."*
